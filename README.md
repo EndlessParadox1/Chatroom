@@ -1,2 +1,2 @@
-# Chatroom
-A demo chatroom implemented by Goshit.
+## Chatroom
+A simple chatroom implemented by golang.
