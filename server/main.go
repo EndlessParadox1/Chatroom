@@ -30,7 +30,7 @@ func main() {
 	for {
 		conn, err := listener.Accept()
 		if err != nil {
-			log.Fatal(err)
+			log.Println(err)
 			continue
 		}
 		go handler(conn)

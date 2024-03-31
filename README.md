@@ -1,2 +1,3 @@
-## Chatroom
-A simple chatroom implemented by golang.
+# Chatroom
+
+> A simple chatroom implemented by go.
